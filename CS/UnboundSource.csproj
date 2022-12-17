@@ -1,18 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
-	<LangVersion>9</LangVersion>
-	<IncludePackageReferencesDuringMarkupCompilation>true</IncludePackageReferencesDuringMarkupCompilation>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <LangVersion>9</LangVersion>
+    <IncludePackageReferencesDuringMarkupCompilation>true</IncludePackageReferencesDuringMarkupCompilation>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="DevExpress.Mvvm" Version="21.2.2" />
+    <PackageReference Include="DevExpress.Mvvm" Version="22.2.2-beta" />
     <PackageReference Include="DevExpress.Mvvm.CodeGenerators" Version="21.2.2" />
-    <PackageReference Include="DevExpress.Wpf" Version="21.2.2" />
-    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="21.2.2" />
+    <PackageReference Include="DevExpress.Wpf" Version="22.2.2-beta" />
+    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="22.2.2-beta" />
   </ItemGroup>
-
 </Project>

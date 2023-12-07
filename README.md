@@ -8,7 +8,7 @@
 
 The [UnboundDataSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DataSources.UnboundDataSource) component is designed for unconventional binding scenarios when no strongly typed data set is available at compile time.
 
-The DevExpress MVVM Framework includes a [source generator](http://docs.devexpress.devx/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels) that produces boilerplate code for your View Models at compile time.
+The DevExpress MVVM Framework includes a [source generator](https://docs.devexpress.com/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels) that produces boilerplate code for your View Models at compile time.
 
 This example illustrates how to use the `UnboundDataSource` with the source generator.
 
@@ -22,7 +22,7 @@ This example illustrates how to use the `UnboundDataSource` with the source gene
 * [UnboundDataSource](https://docs.devexpress.com/WPF/118089/common-concepts/data-sources/unbounddatasource)
 * [UnboundDataSource Class](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DataSources.UnboundDataSource)
 * [UnboundSource](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.UnboundSource)
-* [View Models Generated at Compile Time](http://docs.devexpress.devx/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels)
+* [View Models Generated at Compile Time](https://docs.devexpress.com/WPF/402989/mvvm-framework/viewmodels/compile-time-generated-viewmodels)
 
 ## More Examples
 

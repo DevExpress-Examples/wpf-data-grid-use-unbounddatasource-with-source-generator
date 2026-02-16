@@ -30,7 +30,7 @@ This example illustrates how to use the `UnboundDataSource` with the source gene
 * [Use UnboundDataSource to Populate WPF Data Grid with Data](https://github.com/DevExpress-Examples/use-unbounddatasource-to-populate-wpf-data-grid-with-data)
 * [WPF MVVM Framework - Use View Models Generated at Compile Time](https://github.com/DevExpress-Examples/wpf-mvvm-framework-view-model-generator)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-use-unbounddatasource-with-source-generator&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-use-unbounddatasource-with-source-generator&~~~was_helpful=no)
 

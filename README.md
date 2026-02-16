@@ -12,7 +12,7 @@ The DevExpress MVVM Framework includes a [source generator](https://github.com/d
 
 This example illustrates how to use the UnboundDataSource in conjunction with the source generator.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-use-unbounddatasource-with-source-generator&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-use-unbounddatasource-with-source-generator&~~~was_helpful=no)
 
